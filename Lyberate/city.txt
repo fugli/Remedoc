@@ -1,0 +1,10 @@
+/delhi
+/mumbai
+/chennai
+/bangalore
+/hyderabad
+/kolkata
+/pune
+/ahmedabad
+/gurgaon
+/jaipur
