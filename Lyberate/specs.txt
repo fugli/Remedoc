@@ -1,0 +1,54 @@
+Acupressurist
+Acupuncturist
+Aesthetic Medicine
+Allergist/Immunologist
+Alternative Medicine
+Anesthesiologist
+Audiologist
+Ayurveda
+Bariatrician
+Cardiologist
+Cosmetic/Plastic Surgeon
+Dentist
+Dermatologist
+Dietitian/Nutritionist
+Ear-Nose-Throat (ENT) Specialist
+Endocrinologist
+Epidemiologist
+Gastroenterologist
+General Physician
+General Surgeon
+Geneticist
+Geriatrician
+Gynaecologist
+Hematologist
+Homeopath
+Integrative Medicine
+Nephrologist
+Neurologist
+Neurosurgeon
+Nuclear Medicine Physician
+Occupational Therapist
+Oncologist
+Ophthalmologist
+Orthopedist
+Doctor
+Pathologist
+Pediatrician
+Phlebologist
+Physiotherapist
+Podiatrist
+Proctologist
+Psychiatrist
+Psychologist
+Pulmonologist
+Radiologist
+Rheumatologist
+Sexologist
+Somnologist
+Speech Therapist
+Toxicologist
+Unani
+Urologist
+Venereologist
+Veterinarian

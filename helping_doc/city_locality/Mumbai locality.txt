@@ -1,0 +1,52 @@
+Area/Locality
+Santacruz West
+Dadar West
+Dadar East
+Andheri East
+Andheri West
+Bandra East
+Bandra West
+Borivali East
+Borivali West
+Dahisar
+Goregaon East
+Juhu
+Jogeshwari East
+Jogeshwari West
+Kandiwali East
+Kandiwali West
+Khar West
+Malad East
+Malad West
+Ville Parle East
+Ville Parle West
+Lokhandwala
+Powai
+Mahim West
+Mahim East
+Colaba
+Fort
+Vashi
+Tardeo
+Peddar Road
+Chembur
+Byculla
+Shivaji Park
+Marine Lines
+Wadala
+Opera House
+Gamdevi
+Girgaon
+Bhandup (West)
+Malabar Hill
+Masjid Bunder
+Nagpada
+Vasai West
+Mumbai Central
+Crawford Market
+Sion
+Parel
+Worli
+Dharavi
+Matunga
+Mulund (West)

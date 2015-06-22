@@ -1,0 +1,51 @@
+
+1 Head
+2 Scalp
+68 Skin
+8 Jaw
+7 Mouth
+35 Genitals
+37 Buttock
+3 Eyes
+20 Abdomen
+22 Abdomen (upper
+24 Abdomen (lower
+14 Chest
+15 Chest (sternum
+66 General
+16 Axilla
+49 Hand (palm
+63 Foot (sole
+6 Nose
+10 Neck (front
+12 Neck (back
+40 Arm
+52 Leg
+5 Face
+18 Chest (lateral
+26 Back
+27 Thoracic spine
+30 Lumbar spine
+32 Pelvis
+42 Upper arm (bicep
+43 Upper arm (tricep
+45 Forearm (flexor
+46 Forearm (extensor
+48 Hand (back
+50 Fingers
+53 Hip
+54 Thigh
+55 Hamstring
+58 Shin
+59 Calf
+62 Foot (top
+64 Toes
+4 Ears
+34 Groin
+41 Shoulder
+44 Elbow
+47 Wrist
+56 Knee (patella
+57 Popliteal fossa
+60 Ankle
+61 Achilles

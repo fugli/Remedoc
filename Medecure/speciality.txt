@@ -1,0 +1,45 @@
+Anesthesiology
+Ayurveda
+Cardiac Surgery
+Cardiology
+Chest Physician
+Colon And Rectal Surgery
+Cosmetology
+Dentistry
+Dermatology
+Diabetology
+Diet Consultant
+Endocrinology
+Family General Practice
+Gastroenterology
+General Surgery
+Hematology
+Homeopathy
+Internal Medicine
+Interventional Cardiology
+Interventional Radiology
+Medical Oncology
+Nephrology
+Neuro Surgery
+Neurology
+Obstetrics And Gynecology
+Oncology (Cancer)
+Ophthalmology (Eye Specialist)
+Orthopedic Surgery
+Otolaryngology (ENT)
+Pathology
+Pediatrics
+Pediatrics Surgery
+Physiotherapy
+Plastic Surgery
+Psychiatry
+Psychology
+Radiation Oncology
+Radiology
+Rheumatology
+Sexology
+Spine Surgery
+Surgical Oncology
+Trichology
+Urology
+Vascular Surgery

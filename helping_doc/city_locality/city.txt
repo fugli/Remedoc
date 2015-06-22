@@ -1,0 +1,62 @@
+Delhi
+West Delhi
+North Delhi
+South Delhi
+Central Delhi
+East Delhi
+Gurgaon
+Faridabad
+Noida
+Ghaziabad
+Greater Noida
+Kolkata
+Chennai
+Mumbai
+Jaipur
+-- Others --
+Agartala
+Ahmednagar
+Allahabad
+Ambala
+Asansol
+Bangalore
+Bhagalpur
+Bhillai
+Bhubaneshwar
+Bilaspur
+Chandigarh
+Dhanbad
+Dharmasala
+Durgapur
+Gandhinagar Highway
+Guwahati
+Hisar
+Hooghly
+Hubli
+Hyderabad
+Indore
+Jamshedpur
+Jodhpur
+Kota
+Lucknow
+Ludhiana
+Mangalore
+Moradabad
+Nagercoil
+Nainital
+Nasik
+Navi Mumbai
+Pathanamthitta
+Pune
+Raipur
+Rajkot
+Ranchi
+Siliguri
+Tirunalveli
+Ujjain
+Una
+Vadodara
+Valsad
+Vellore
+Vijayawada
+Zirakpur

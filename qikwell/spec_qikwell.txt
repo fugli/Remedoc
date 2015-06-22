@@ -1,0 +1,193 @@
+Andrologist
+Allergist/Immunologist
+Arthroscopic Surgeon
+Ayurvedic
+Angiologist
+Adult and Paediatric Cardiologist
+Audiologist
+Acupuncture
+Anesthesiologist
+Anterior Segment
+Bariatric Surgeon
+Clinical Neuropsychologist
+Consultant Sports & Exercise Physician
+Cardiovascular & Thoracic Surgeon
+Colorectal Surgeon
+Consultant Neurosurgeon
+Consultant Lifestyle Physician
+Counselling
+Cosmetic Surgeon
+Consultant Nephrologist
+Consultant Orthopaedician
+Consultant - Conservative dentistry & Endodontics
+Cardiac Surgeon
+Cardiac Electrophysiologist
+Consultant Palliative Care
+Clinical Genetics
+Cardiothoracic Vascular Surgeon
+Critical Care
+Chiropractic
+Consultant Orthodontist
+Clinical Psychotherapist
+Cardiothoracic Surgeon
+Cosmetic Dermatologist
+Clinical Cardiologist
+Cosmetologist
+Cardiologist
+Consultant Obstetrician and Gynecologist
+Clinical Neuropsychologist
+Diabetologist
+Developmental Pediatrician
+Dialysis
+Dentist
+Dermatologist and Cosmetologist
+Dermatologist
+Dental Surgeon
+ENT Surgeon
+Endourologist
+Endodontist
+Emotional Counselor
+Endovascular Neurosurgeon
+Endocrinology Surgery
+Endovascular Interventions
+Endocrinologist
+ENT
+Fertility Specialist
+Facio Maxillary Surgeon
+Fetal Medicine Specialist
+Family Medicine
+General Physician
+Gastrointestinal Laparoscopy
+Gyneac Oncologist
+Gynaecologist
+General Practitioner
+Gastroenterologist
+Gastroenterologist
+General Surgeon
+Gynaecologic Oncologist
+General Medicine
+General Pediatrics
+Gastro Surgeon
+Hearing Screening Specialist
+Homeopathic
+Health Check
+Haematologist
+Hair Transplant Surgeon
+Haematologist
+Hematologist
+Hepatobiliary & Pancreatic Surgery
+Hepatologist
+Hysteroscopic Surgeon
+Homeopathic Consultant
+Hypnotherapist
+Internal Medicine
+Implantologist
+Interventional pain medicine
+Interventional Neuroradiologist
+Interventional Radiologist
+Interventional Cardiologist
+Immunodermatologist
+Infertility Specialist
+Joint Replacement Specialist
+Kidney Transplantation Physician
+Laproscopic Surgeon
+Microbiologist
+Maxillo Facial Surgery
+Medical Oncologist
+Neurologist
+Neurologist
+Nephrologist
+Neurologist & Diabetologist
+Neuropsychologist
+Neurosurgeon
+Nutritionist
+Neonatal Intensive Care Unit
+Neonatologist
+Neuro Physician
+Oncologist
+Orthopaedic Oncology
+Orthodontist
+OBG
+Ophthalmologist
+Oral Pathologist
+Obstetrics and Gynaec physiotherapist( Antenatal and postnatal care)
+Orthopaedician
+Orthopedic Surgeon
+Obesity Specialist
+Oculoplastic surgeon
+OBG
+Oncology Surgeon
+Oncoplastic Breast Surgery
+Otolaryngologist
+Obstetrician
+Pain management
+Pediatric Diabetologist
+Pediatric Allergist and Pulmonologist
+Pediatric Urologist
+Pediatric Orthopaedician
+Pediatric Neonatologist
+Plastic Surgeon
+Pediatric Oncologist
+Prosthodontics
+Psychologist
+Perinatologist
+Psychotherapist
+Periodontist
+Pediatric Hematologist & Oncologist
+Pediatric Dentistry
+Pediatric Neurologist
+Prosthodontist
+Pediatric Nutritionist
+Pediatric Pulmonologist
+Pediatrician
+Physical Medicine And Rehabilitation
+Pediatric Dermatologist
+Pediatric Ophthalmology
+Pedodontist
+Pediatric Rheumatology
+Pediatric Urologist
+Podiatric Physician
+Pediatric Nephrologist
+Pediatric Psychologist
+Pediatric & Adolescent Endocrinologist
+Pediatric Psychiatrist
+Pediatric Cardiologist
+Pediatric Neuropsychologist
+Pediatric Endocrinologist
+Pediatric Allergology & Immunology
+Pediatrician & Pediatric Endocrinologist
+Psychiatrist
+Pediatric Surgeon
+Pediatric Hematologist
+Pediatric Gastroenterologist
+Pulmonologist
+Periodontist
+Pathologist
+Preventive Health
+Physiotherapist
+Psychologist Counselor
+Radiologist
+Retina Specialist
+Registrar
+Reproductive medicine
+Radiation Oncology
+Reproductive Endocrinology & Infertility
+Reconstructive Urologist
+Rheumatologist
+Spine Surgeon
+Spine Specialist
+Surgical Oncologist
+Sexologist
+Sport Medicine Specilalist
+Sleep Medicine
+Specialist in Diabetology
+Speech Therapist
+Sonologist
+Shoulder, Foot & Ankle Surgeon
+Sports Injury
+Trichologist
+Trauma Surgeon
+Urogynaecologist
+Urologist
+Uro Oncologist
+Vascular Surgeon

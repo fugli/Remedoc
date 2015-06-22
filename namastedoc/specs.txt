@@ -1,0 +1,413 @@
+Headache
+Dizziness
+Spinning Sensation
+Neck pain
+Back pain
+Seizures (Body jerking)
+Paralysis
+Sensory Loss (Numbness/Tingling)
+Abnormal sensations
+Speech Problems(Slurring )
+Tremors
+Altered Sensorium
+Unconsciousness
+Chest pain
+Heart attack
+Racing heart
+Missing Heart beats
+Body edema esp. Ankle edema
+Regular Blood Pressure check ups
+Cough with/without sputum
+Difficult Breathing
+Asthma
+Blood in sputum
+Throat pain/ Irritation
+Sinusitis
+Weight loss with Smoking History 
+COPD
+Pain in abdomen
+Distended abdomen
+Vomiting
+Blood in vomitus
+Difficult swallowing
+Gas formation
+Food regurgitation
+Burning abdominal pain
+Jaundice
+Loss of weight/appetite
+Constipation
+Diarrhea
+Blood in stool
+Indigestion
+Chronic renal failure
+Acute renal failure
+Regular follow up in diabetics
+Frequent Urination
+Multiple night wake ups
+Body edema esp. facial edema
+Flank pain
+Burning urination
+Flank swelling
+Blood in urine
+Suprapubic pain
+General Neuro
+Cardiac problem
+Lungs problem
+Abdominal problem
+Renal problem
+New born baby follow up
+Abnormal growth
+Body development
+Fever
+Cough
+Pain abdomen
+General Physician
+Bluish coloration of body while crying
+Bone fracture
+Sprain
+Ankle/Wrist twist
+Muscle pull
+Accident
+Spinal Injury
+Disc prolapse
+Disfigured bone
+Pimples/Acne
+Fungal infection
+Excessive itching/flushing
+Skin allergy
+Drug reaction
+Rain drop lesions(Herpes)
+White spots/patches
+Growing black skin lesion
+Hair loss/baldness
+Hair discoloration
+Abnormal Behavior
+Hearing non-existing voices
+Seeing non-existing things
+Non existing beliefs
+Low energy/confidence
+Depression
+Excessive Talking
+Lavish spending of money
+Flight of ideas
+Repetion of same activities 
+Sleep problems
+Whole day anxiety
+Intentional weight
+Appetite loss
+Intentional pres. of fake problems
+Menstrual cycle disturbances
+Prolonged menstrual bleeding
+Frequent menstrual bleeding
+Irregular menstrual cycle
+Painfull menstrual cycle
+Absent menses
+Abnormal vaginal discharge
+Excessive vaginal Itching
+Pain during intercourse/sex
+Genital swelling
+Pregnancy follow up
+Delivery of new born
+Vaginal bleeding during pregnancy
+Excessive vomiting during pregnancy
+Seizures during pregnancy
+Increased BP in Pregnancy
+Absent fetal
+Baby movement in pregnancy
+Blurry vision
+Sudden loss of vision
+Weak eyesight
+Headache on prolonged reading
+Colour blindness
+Watery eye
+Itchy eyes
+Eye flu
+Cataract
+Eye pain
+Eye trauma
+Hearing loss
+Ear pain
+Ear discharge
+Foreign body
+Trauma
+Runny nose
+Nose bleeding
+Nose pain
+Nasal Boils
+Allergy
+Throat pain
+Throat congestion
+Throat irritation
+Snoring
+Tooth caries
+Tooth pain
+Gum bleeding
+Excessive/Extra teeth
+Malaligned teeth
+Artificial teeth placement
+Excessive cold / heat sensation
+Oral Surgery
+Stone(Kidney/Ureter)
+Urinary Bladder
+Prostate problems
+Incomplete emptying of bladder
+Narrow urine stream
+Cancer
+Classical Homoeopathy
+Ayurvedic Physician
+Manual Therapy
+Metabole
+Pathology
+Loss/Gain of appetite
+Loss/Gain of weight
+Loss of energy
+Excessive heat
+Cold sensation
+Early/Late sexual development
+Increased Urination
+Excessive thirst
+Darkening of skin
+Diabetic Check ups
+Endoscopic Surgery
+Head injury (Road Accidents, Fall)
+Brain hemmorhage
+Brain  Cancer/Tumour
+Brain vessel malformation
+Back pain radiating to legs
+Cardiac bypass 
+Lung resection
+Blood clots in vessel
+Blood flow obstruction in legs
+Pulsating swelling
+Arteriovenous fistula
+Orthopaedic
+Physiotherapy
+Opthalmologist
+Pediatrician
+Pediatric Dentist
+Dentist
+Implantologist
+Onco Surgeon
+Onco Physician
+Ear, Nose , Throat (ENT)
+Obstretics And Gynaecologist
+Gastrologist
+Diabetologist
+Nephrologist
+Neurologist
+Pulmonology/Tb -Chest
+Cardiologist
+Psychiatrist
+Urologist
+Dermatologist/Skin
+Path Lab
+Radiologist
+Weight Management
+Homeopathy
+Ayurvedic
+Birth defects
+Laparoscopic
+Endocrinologist
+Neuro Surgeon
+Cardiothoracic Surgeon
+Gynaecologist
+Family Physician
+Orthodontist
+Prosthodontist
+Periodontics
+Adolescent Specialist
+Medicine
+Musculoskeletal
+Pain Management
+Dental Surgeon
+General Surgeon
+Cosmetics
+Nutritional Medicine
+Endodontist
+Cosmotology
+Neonatologist
+Unani Medicine
+Gastroenterologist
+Plastic Surgery
+Unani
+Andrology
+Oral Maxillofacial Surgeon
+Audiology
+Psychologist
+Ayurvedic Practice
+Audiologist And Speech Language Therapist
+Emergency Medical Officer
+First Aid
+Viral
+Malaria
+Dengue
+Nausea
+Body Ache/Head Ache/Stomach Ache
+Acute and Chronic Illness
+Health Education
+Preventive Care
+Vascular Surgeon
+Gastro Surgeon
+Neuro Psychiatrist
+Gall bladder
+Kidney Stone
+Pedodontist
+Oral Medicine
+Arthroscopic Surgeon
+Root Canal Treatment
+Sexologist
+Cosmo Dentist
+Acupuncture
+Asthmatic
+Diabetic Hypertension
+Cardiac Management
+Oncologist
+Panchakarma
+Rheumatologist
+Joint and Muscle Problems
+Naturopathy
+Hemorrhoids
+Trichology
+Cosmetic Surgeon
+Gastro-Intestine Surgery
+Oral Oncologist
+Marriage Counselors
+Anesthetists
+Head And Neck Oncologist
+Oculoplastic Surgery
+Dietitian
+Infertility
+Holistic Physician
+Skin And Allergy Disorder
+Hair Transplant
+Hair Loss Treatment
+Re-grow Hair
+Dandruff Problem
+Podiatrist
+Pediatrics Opthalmologist
+HIV
+Hepatitis
+Obesity
+Thyroid
+Harmonal Disorder
+Acupressure
+Neurotherapy
+Hypnotherapy
+Orthopedic Surgeon
+General Physician[68]
+headache
+dizziness
+sinusitis
+constipation
+diarrhoea
+pain in abdomen
+Bariatric Surgery
+Numbness
+Pain and discomfort
+Gastric Bypass Surgery
+Rehabilitation
+Hysteroscopic Surgeon
+Eye Surgeon
+Radiation Oncologist
+ENT Surgeon
+Cardiovascular Surgeon
+Occupational Therapy
+Rabies
+Animal Byte
+Hypospadias Surgeon
+Straighten The Penis
+Move The Urethral Opening
+Remove Excess Foreskin
+Penis Repair
+Abnormality of The Urethra
+Sleeping Disorder
+Certified Panchakarma
+Endoscopy
+Clinical Immunologist
+Post Pregnancy Specialist
+Interventional Cardiologists
+Slimming Program
+Sonologist
+Liposuction Surgery
+Kidney Transplant Surgeon
+Pediatric Urologist
+Kidney Transplant
+Surgical Procedure
+Kidney Donation
+Kidney Operation
+Severe Infection
+Bleeding
+Urinary Bladder
+Blood in Urine
+Flank Pain
+Flank Swelling
+Prostate Problem
+Frequent Urination
+Incomplete Emtying of Bladder
+Narrow Urine Stream
+Veterinary Doctor
+Delete08
+Pediatric Neurologist
+Delete02
+Pediatric Gastroenterologist
+Delete03
+Delete05
+Delete04
+Delete06
+Herbal Medicine
+Delete09
+Robotic Surgery
+Delete07
+Hematology
+Delete01
+Hernia
+Hernia Surgeon
+Breast Surgeon
+Neurotologist
+General Medicine[33]
+Hepatology
+Hepatology[175]
+Interventional Pulmonology
+Kidney Stone
+Knee Replacement
+IVF (In Vitro Fertilization)
+Surrogacy
+Body Pain
+Cervical Pain
+Knee Pain
+Joint Pain
+Shoulder Pain
+Migraine
+Sciatica
+Nerve Pain
+Muscle Pain
+Arthritis
+Sports
+Orthopedic
+Body Fitness
+Aerobics
+Pilates & Plyometric Swiss Ball
+Thera Band Exercise
+Power Yoga
+Physical Therapy
+Musculoskeletal Pain
+Breast Augmentation
+BOTOX & Chemical Injections
+Skin Care
+Lower Body Lift
+Fat Injection
+Chemical Peels
+Brow Lift
+Breast Reduction
+Breast Enlargement
+Breast Reconstruction
+Breast Cancer
+Maxillofacial Surgeon
+Hair Transplant Surgeon
+Trichologist
+Facial Plastic Surgeon
+Clinical Psychologist
+Clinical Hypnotherapist
+Cardiac Surgeon
+Nuclear Medicine Physician
+Pediatric Cardiologist
