@@ -30,6 +30,7 @@ def fn (url):
 
 flagspec = 0
 flag_city = 0
+flag_url = 0
 city_li = open('locality.txt', 'r').readlines()
 for city in city_li:
 	city = city.lower().rstrip()
@@ -52,8 +53,38 @@ for city in city_li:
 
 		# url = 'https://www.lybrate.com'+city+'?page='+str(num)
 		url =city+'?page='+str(num)
-		print url
-		soup2 = fn(url)
+		# print url
+		# soup2 = fn(url)
+		if url == 'https://www.lybrate.com/bangalore/locality/malur--hosur-road-bangalore?page=1':
+			flag_url = 1
+		elif flag_url ==0:
+			continue
+
+		while True:
+			try:
+				print url
+				soup2 = fn(url)
+				
+			except urllib2.HTTPError,err:
+				if err.code == 404 or  err.code==401 or err.code ==500:
+					print '404 pg nt fnd'
+					flag_err404 = 1
+					break
+				else:
+					print 'line 140',err.code
+					continue
+			except:
+				print "line 115 err" ,url
+				print 'loop untils err is solved :)'
+				continue
+			else:
+				break
+
+		if flag_err404 == 1:
+			flag_err404 = 0
+			break
+
+			
 
 		div_doc_li = soup2.find_all('div',{'class':'name_block'})
 		if not div_doc_li :
@@ -96,15 +127,16 @@ for city in city_li:
 			soup1 = fn(doc_link)
 
 
-			soup1 = BeautifulSoup (open('srcpg.html'))
-			doc_link ='bls'
-			city = 'bla'
+			# soup1 = BeautifulSoup (open('srcpg.html'))
+			# doc_link ='bls'
+			# city = 'bla'
 			doc_info = {}
 			doc_main = soup1.find('div',{'class':'main_top_block'})
 			###left part-- name etc
-
-			div_left = doc_main.find('div',{'class':'span6'})
-
+			try:
+				div_left = doc_main.find('div',{'class':'span6'})
+			except:
+				continue
 			##image
 			doc_img = div_left.find('img')
 			doc_img = doc_img['src']
@@ -157,11 +189,11 @@ for city in city_li:
 			# more_abt = div_abt.find('div')
 			# more_abt = ' '.join(more_abt.text.encode('ascii','ignore').split())
 			div_abt = ' '.join(div_abt.text.encode('ascii','ignore').split())
-			a = re.split('More about %s'%name,str(div_abt))
-			prsnl_stmt = a[0]
-			more_about = a[1]
-			doc_info.update({'more_abt':a[1]})
-			doc_info.update({'prsnl_stmt':a[0]})
+			# a = re.split('More about %s'%name,str(div_abt))
+			# prsnl_stmt = a[0]
+			# more_about = a[1]
+			doc_info.update({'more_abt':div_abt})
+			doc_info.update({'prsnl_stmt':'NF'})
 
 
 			# print	(div_all[0])#.next_sibling#.previous_sibling#div_abt # div_abt#about
