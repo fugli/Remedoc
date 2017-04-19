@@ -1,4 +1,3 @@
 #Remedoc
 
-This repo contains scrapping code in python
-web spiders
+This repo contains scrapping code in python.
